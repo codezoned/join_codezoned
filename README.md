@@ -20,6 +20,6 @@
 
 4. Register on http://talk.codezoned.com/
 
-5. There you go, Let's start out journey now :heart:
+5. There you go, Let's start our journey now :heart:
 
 
