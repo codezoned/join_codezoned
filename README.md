@@ -12,6 +12,8 @@
 
 **To join the codezoned organisation, Follow the following steps:**
 
+**Before following these steps, Visit [Join.codezoned](http://join.codezoned.com/)**
+
 1. Fork and clone the repository
 
 2. Add your name, Github tag in the member-list.
