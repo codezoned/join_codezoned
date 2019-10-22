@@ -20,7 +20,7 @@
 
 3. Submit a PR stating you want to join the org.
 
-4. Register on http://talk.codezoned.com/
+4. Register on http://talk.codezoned.com/ and Visit http://join.codezoned.com/
 
 5. There you go, Let's start our journey now :heart:
 
