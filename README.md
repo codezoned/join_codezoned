@@ -12,7 +12,9 @@
 
 **To join the codezoned organisation, Follow the following steps:**
 
-**Before following these steps, Visit [Join.codezoned](http://join.codezoned.com/)**
+**Join our [discord server](http://discord.codezoned.com)**
+
+**Visit [Join.codezoned](http://join.codezoned.com/)**
 
 1. Fork and clone the repository
 
