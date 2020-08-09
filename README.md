@@ -12,13 +12,17 @@
 
 **To join the codezoned organisation, Follow the following steps:**
 
+**Join our [discord server](http://discord.codezoned.com)**
+
+**Visit [Join.codezoned](http://join.codezoned.com/)**
+
 1. Fork and clone the repository
 
 2. Add your name, Github tag in the member-list.
 
 3. Submit a PR stating you want to join the org.
 
-4. Register on http://talk.codezoned.com/
+4. Register on http://talk.codezoned.com/ and Visit http://join.codezoned.com/
 
 5. There you go, Let's start our journey now :heart:
 
