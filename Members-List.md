@@ -1,7 +1,7 @@
-/********************************MEMBER'S LIST FOR CODEZONED*******************************/
+## MEMBERS'S LIST FOR CODEZONED
 
-// Follow this style
-// Name - @Github-Handle
+*Follow this style
+No. Name - @Github-Handle*
 
 1. Sagar Vakkala - @ionicc
 2. Manish Kumar - @master-fury
@@ -81,5 +81,6 @@
 76. Ishaan - @ishaan28malik
 77. Kushal Das - @Kushal997-das
 78. Hariharan.B - @HariAcidReign
+79. Ashish Patwal - @ashish-patwal 
 
 
