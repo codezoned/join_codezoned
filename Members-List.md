@@ -1,8 +1,9 @@
 ##MEMBERS'S LIST FOR CODEZONED
-<!--
+
+*
 Follow this style
-Name - @Github-Handle
--->
+No. Name - @Github-Handle
+*
 
 1. Sagar Vakkala - @ionicc
 2. Manish Kumar - @master-fury
